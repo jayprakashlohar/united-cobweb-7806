@@ -1,0 +1,203 @@
+[
+    {
+      "id":1,
+      "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/153/15345/15345702.jpg",
+      "title": "Fitbit Versa 3 Smartwatch with Voice Assistant, GPS & 24/7 HR - Olive Green - Only at Best Buy",
+      "rate":"⭐⭐⭐⭐⭐ (1762 Reviews)",
+      "top":"",
+      "price":"219.99",
+      "save":"SAVE $80",
+      "end":"Available to ship"
+    },
+    {
+        "id":2,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/152/15265/15265629.jpg",
+        "title": "Dyson V8 Animal Cordless Stick Vacuum - Nickel",
+        "rate":"⭐⭐⭐⭐⭐ (4001 Reviews)",
+        "top":"Top Deal",
+        "price":"399.99",
+        "save":"SAVE $100",
+        "end":"Available to ship"
+      },
+      {
+        "id":3,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15753/15753557.jpg",
+        "title": "GE Smart Portable Air Conditioner - 11000 BTU (SACC 7800 BTU) - White",
+        "rate":"⭐⭐⭐⭐ (137 Reviews)",
+        "top":"Top Deal",
+        "price":"499.99",
+        "save":"SAVE $300",
+        "end":"Sold out online"
+      },
+      {
+        "id":4,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/154/15492/15492679.png",
+        "title": "Gyrocopters Flash 3.0 Portable Electric Scooter (350W Motor / 28km Range / 25km/h Top Speed)",
+        "rate":"⭐⭐⭐⭐⭐ (20 Reviews)",
+        "top":"",
+        "price":"399.99",
+        "save":"SAVE $400",
+        "end":"Available to ship"
+      },
+      {
+        "id":5,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/144/14469/14469365.jpg",
+        "title": "Samsung 58'' 4K UHD HDR LED Tizen Smart TV (UN58TU7000FXZC) - Titan Grey",
+        "rate":"⭐⭐⭐⭐ (10100 Reviews)",
+        "top":"Top Deal",
+        "price":"699.99",
+        "save":"SAVE $100",
+        "end":"Available to ship"
+      },
+      {
+        "id":6,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/160/16011/16011817.jpg",
+        "title": "Lenovo S345 14'' Chromebook - Mineral Grey (AMD A6-9220C/64GB/4GB RAM/Chrome OS) - English",
+        "rate":"⭐⭐⭐⭐⭐ (24 Reviews)",
+        "top":"Top Deal",
+        "price":"199.99",
+        "save":"SAVE $200",
+        "end":"Available to ship"
+      },
+      {
+        "id":7,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/160/16020/16020141.jpg",
+        "title": "HP 15.6'' Laptop - Jet Black (Intel Pentium Silver N6000/512GB SSD/8GB RAM/Windows 11 Home)",
+        "rate":"⭐⭐⭐⭐ (7 Reviews)",
+        "top":"Top Deals",
+        "price":"499.99",
+        "save":"SAVE $130",
+        "end":"Available to ship"
+      },
+      {
+        "id":8,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/158/15821/15821434.jpeg",
+        "title": "Microsoft Surface Laptop Go, 12.4in Multi-Touchscreen, Intel Core i5-1035G1, 8GB RAM, 128GB SSD, Windows 10 Home in S Mode, Sandstone - Certified Refurbished",
+        "rate":"⭐⭐⭐⭐⭐ (1 Reviews)",
+        "top":"Top Deal",
+        "price":"499.00",
+        "save":"SAVE $400",
+        "end":"Available to ship"
+      },
+      {
+        "id":9,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15766/15766135.jpeg",
+        "title": "MotionGrey Standing Desk Height Adjustable Electric Motor Sit to Stand Desk Computer for Home and Office - Black Frame (55inx24in Top Included) - Only at Best Buy",
+        "rate":"⭐⭐⭐⭐⭐ (110 Reviews)",
+        "top":"Top Deal",
+        "price":"299.99",
+        "save":"SAVE $415",
+        "end":"Available to ship"
+      },
+      {
+        "id":10,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/137/13797/13797305.jpg",
+        "title": "JBL Flip 5 Waterproof Bluetooth Wireless Speaker - Black",
+        "rate":"⭐⭐⭐⭐⭐ (4868 Reviews)",
+        "top":"Top Deal",
+        "price":"119.99",
+        "save":"SAVE $40",
+        "end":"Available to ship"
+      },
+      {
+        "id":11,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/152/15262/15262566.jpg",
+        "title": "Samsung 25W Fast Charging Wall Charger - Black",
+        "rate":"⭐⭐⭐⭐⭐ (2191 Reviews)",
+        "top":"Top Deal",
+        "price":"12.99",
+        "save":"SAVE $5",
+        "end":"Available to ship"
+      },
+      {
+        "id":12,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/152/15201/15201345.jpg",
+        "title": "TCL 4-Series 50'' 4K UHD HDR LED Roku TV Smart TV (50S435-CA) - 2021",
+        "rate":"⭐⭐⭐⭐ (18 Reviews)",
+        "top":"Top Deal",
+        "price":"399.99",
+        "save":"SAVE $50",
+        "end":"Available to ship"
+      },
+      {
+        "id":13,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/153/15303/15303231.jpg",
+        "title": "Google Nest Hub (2nd Gen) Smart Display with Google Assistant - Charcoal",
+        "rate":"⭐⭐⭐⭐ (236 Reviews)",
+        "top":"Top Deal",
+        "price":"64.99",
+        "save":"SAVE $35",
+        "end":"Available to ship"
+      },
+      {
+        "id":14,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/145/14547/14547097.jpg",
+        "title": "Sony WH-CH710N Over-Ear Noise Cancelling Bluetooth Headphones - Black",
+        "rate":"⭐⭐⭐⭐ (1575 Reviews)",
+        "top":"Top Deal",
+        "price":"129.99",
+        "save":"SAVE $120",
+        "end":"Available to ship"
+      },
+      {
+        "id":15,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/153/15303/15303234.jpg",
+        "title": "Google Nest Hub (2nd Gen) Smart Display with Google Assistant - Chalk",
+        "rate":"⭐⭐⭐⭐ (236 Reviews)",
+        "top":"Top Deal",
+        "price":"64.99",
+        "save":"SAVE $35",
+        "end":"Available to ship"
+      },
+      {
+        "id":16,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/148/14882/14882488.jpg",
+        "title": "tbit Inspire 2 Fitness Tracker with 24/7 Heart Rate - Black",
+        "rate":"⭐⭐⭐⭐⭐ (2349 Reviews)",
+        "top":"Top Deal",
+        "price":"89.99",
+        "save":"SAVE $40",
+        "end":"Available to ship"
+      },
+      {
+        "id":17,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/153/15396/15396150.jpg",
+        "title": "Samsung Galaxy Buds Pro In-Ear Noise Cancelling Truly Wireless Headphones - Phantom Black - Open Box",
+        "rate":"⭐⭐⭐⭐ (741 Reviews)",
+        "top":"Top Deal",
+        "price":"84.99",
+        "save":"SAVE $115",
+        "end":"Available to ship"
+      },
+      {
+        "id":18,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/146/14609/14609472.jpg",
+        "title": "LG 34'' Ultrawide FHD 75Hz 5ms GTG IPS LED Monitor (34WN650-W) - White",
+        "rate":"⭐⭐⭐⭐⭐ (59 Reviews)",
+        "top":"Top Deal",
+        "price":"349.99",
+        "save":"SAVE $100",
+        "end":"Available to ship"
+      },
+      {
+        "id":19,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/150/15081/15081903.jpg",
+        "title": "DJI Mini 2 Quadcopter Drone Fly More Combo - Grey - Bilingual",
+        "rate":"⭐⭐⭐⭐⭐ (2488 Reviews)",
+        "top":"Top Deal",
+        "price":"699.99",
+        "save":"",
+        "end":"Available to ship"
+      },
+      {
+        "id":20,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/160/16022/16022241.png",
+        "title": "METAKOO Cybertrack 100 Electric Mountain Bike /Shimano Professional 21 Speed/350W Powerful Motor/16.7Inch Frame/26 Inch Tires",
+        "rate":"⭐⭐⭐⭐⭐ (5 Reviews)",
+        "top":"",
+        "price":"1009.99",
+        "save":"",
+        "end":"Available to ship"
+      }
+
+]

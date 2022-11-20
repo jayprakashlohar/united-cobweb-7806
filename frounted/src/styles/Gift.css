@@ -1,0 +1,91 @@
+/* ----------GiftCards css-------- */
+
+.p {
+  margin-left: 12%;
+  color: #2b5df5;
+}
+
+.heading {
+  margin-left: 12%;
+  font-weight: 620;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 20px;
+}
+
+.Head {
+  font-size: 45px;
+  font-weight: 700;
+  color: #fff200;
+}
+.p1 {
+  font-size: 17px;
+  font-weight: 600;
+  margin-top: 7px;
+  color: #fff;
+}
+
+.p2 {
+  color: #ffce00;
+  margin-top: 7px;
+}
+
+.head1 {
+  font-size: 20px;
+  color: #1d252c;
+  font-weight: 600;
+}
+.p3 {
+  color: #2b5df5;
+  margin-top: 30px;
+}
+.p3 + p {
+  color: #1d252c;
+  font-size: 14px;
+  font-weight: 450;
+}
+.p3:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.p4 {
+  color: #2b5df5;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.p4:hover {
+  text-decoration: underline;
+}
+
+.p5 {
+  text-align: center;
+  cursor: pointer;
+  color: #2b5df5;
+  line-height: 40px;
+  font-size: 14px;
+  margin-top: 100px;
+}
+.p5:hover {
+  text-decoration: underline;
+}
+
+.p6 {
+  cursor: pointer;
+  text-align: center;
+  color: #2b5df5;
+  line-height: 40px;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.p6:hover {
+  text-decoration: underline;
+}
+
+.p7 {
+  padding-left: 15px;
+  font-size: 15px;
+  margin-bottom: 10px;
+}

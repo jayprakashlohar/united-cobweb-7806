@@ -1,0 +1,124 @@
+{
+    "htoffs":[
+        
+{
+    "hoffimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt3a0283850b2da7f8/629aa35861670f0fb5dd0e87/ht-20220610-offer-hp-ht-onsale-m.jpg?width=1800&quality=80&auto=webp",
+    "title":"Save up to $300 on select ultra-HD TVs.",
+    "offt":"Plus, enjoy more deals on select home audio and home theatre accessories.",
+    "link":"Shop deals >"
+},
+  
+  {
+      "hoffimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt360dc53ebf77defc/627449b48c90c334d0d41486/computing-20220506-offer-computers-and-accessories-4col-m.jpg?width=1800&quality=80&auto=webp",
+    "title":"Save big on computers and accessories for work and play.",
+    "offt":" ",
+    "link":"Shop Now >"
+    },
+  
+  {
+      "hoffimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltce40af050d6f9a59/602db6bb2bcd81160ce91b54/heb-20210219-offer-bestbuy-outlet-m-eng.jpg?width=1800&quality=80&auto=webp",
+    "title":"Explore Best Buy Outlet.",
+    "offt":"Find incredible deals on open box and Geek Squad Certified Open Box items, and more.",
+    "link":"Shop Now >"
+    },
+  
+  {
+      "hoffimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt3a81ac0ec530b4b8/6291049f1a5eff4c4c377440/vg-20220603-offer-play-at-best-buy-top-deals-4col-m.jpg?width=1800&quality=80&auto=webp",
+    "title":"Get deals on video games and gear, plus the latest news on upcoming releases.",
+    "link":"Shop Now >"
+    }
+    ],
+    "seas":[
+        
+{
+    "seaimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltd60e3261c1f642b7/5d0033bc6a96af7017dfe74d/furniture-icon-alloutdoor.jpg?width=250&quality=80&auto=webp",
+    "title":"Outdoor Living"
+},
+
+{
+    "seaimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt2a6ba8186f5c2fc8/5effa6b7b52fb75925ee404c/ac-sbc-icon.jpg?width=250&quality=80&auto=webp",
+    "title":"Cooling and Air Quality"
+},
+
+{
+    "seaimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt395270f5843e37fe/626aaf3976b17f2f94786952/sportsandrec-evergreen-category-icon-shop-by-category.jpg?width=250",
+    "title":"Sports and Recreation"
+},
+
+{
+    "seaimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltff769e2ada93c2db/5fa9e4b44e40cf53001f5252/di-evergreen-category-icon-cameras-drones.jpg?width=250&quality=80",
+    "title":"Cameras, Camcorders, and Drones"
+},
+
+{
+    "seaimg":"https://multimedia.bbycastatic.ca/multimedia/products/250x250/134/13497/13497557.jpg",
+    "title":"Car Tech"
+},
+
+{
+    "seaimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt2b069a38bfbed6f6/60db8b26a1ff3159b5938622/luggage-evergreen-category-icon-luggage-bags.jpg?width=250&quality=80",
+    "title":"Travel and Luggage"
+}
+    ],
+    "shopcat":[
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt100fc1a0ee5fdd12/5d23bb6f8d27ea11c3822271/ht-20190712-homepage-ht-shopby.jpg?width=250&quality=80&auto=webp",
+            "title":"TVs, Home Theatre, and Accessories"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltad02379eb78e9028/5e28a49463d1b6503160ee40/computing-evergreen-category-icon-laptops.jpg?width=250&quality=80&auto=webp",
+            "title":"Computers, Tablets, and Accessories"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt7682f947ff1c0cd3/5f9749ff67a7c35492602290/smart-home-icon.jpg?width=250&quality=80&auto=webp",
+            "title":"Smart Home"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt9450d10d80be158b/6192ea614eed0e4a24dca596/homepage-shopbycategory-pa-on-sale.jpg?width=250&quality=80&auto=webp",
+            "title":"Headphones and Portable Speakers"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt819b5f45dd06be17/6025c7884b8030688c37d8bd/bbym-20210212-icon-cellphone-accessories.jpg?width=250&quality=80&auto=webp",
+            "title":"Cell Phones and Accessories"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/bltebba6ba1bd154354/5ee2c83e0f079e4334fd6c74/majorapps-icon.jpg?width=250&quality=80&auto=webp",
+            "title":"Major Appliances"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt2f9307f50e7b9ad0/5f7b8d08879de80eb41b07e9/mixers-icon.jpg?width=250&quality=80&auto=webp",
+            "title":"Small Kitchen Appliances"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt781fd15a5b1c8dbb/611bd84725695f14a34d829a/13817625_5.jpg?width=250&quality=80&auto=webp",
+            "title":"Video Games, Consoles, and Accessories"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt4cddcbaa288413ec/5f5a7640c0eb1d4aeabe8f7f/14882490.jpg?width=250&quality=80&auto=webp",
+            "title":"Wearable Technology"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt77b27294b5c07f31/5d9f83ee0767ca0e800b06fa/computing-evergreen-icon-pc-gaming.jpg?width=250&quality=80&auto=webp",
+            "title":"PC Gaming"
+        },
+        
+        {
+            "shpimg":"https://multimedia.bbycastatic.ca/multimedia/products/250x250/146/14679/14679772.jpg",
+            "title":"Health and Fitness"
+        },
+        
+        {
+            "shpimg":"https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt2705e457feb84d61/62059060214fe9266428d3e4/vacuums-sbc-icon-12370687.jpeg?width=250&quality=80&auto=webp",
+            "title":"Vacuums"
+        }
+    ]
+}

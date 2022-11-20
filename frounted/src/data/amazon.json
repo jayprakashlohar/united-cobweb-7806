@@ -1,0 +1,224 @@
+ [
+    {
+      "id": 1,
+      "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15725/15725752.jpg",
+      "title": "Amazon Fire TV 4-Series 55'' 4K UHD HDR LED Smart TV (B08T6H1RQD) - 2021",
+      "rate": "⭐⭐⭐(13 Reviews)",
+      "top": "",
+      "price": "459.99",
+      "save": "save 95",
+      "end": "Available to ship",
+      "brand": "Amazon"
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/153/15386/15386728.jpg",
+        "title": "Amazon Fire TV Stick (3rd Gen) Media Streamer with Alexa Voice Remote",
+        "rate": "⭐⭐⭐⭐⭐(44 Reviews)",
+        "top": "",
+        "price": "44.99",
+        "save": "save 15",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/160/16039/16039528.jpg",
+        "title": "Amazon Fire TV Stick Lite Media Streamer with Alexa Voice Remote Lite (2022)",
+        "rate": "⭐⭐⭐⭐(1 Reviews)",
+        "top": "",
+        "price": "34.99",
+        "save": "save 15",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/156/15665/15665553.jpg",
+        "title": "Amazon Fire TV Stick 4K Max Media Streamer with Alexa Voice Remote",
+        "rate": "⭐⭐⭐⭐⭐(19 Reviews)",
+        "top": "Top deal",
+        "price": "59.99",
+        "save": "save 5",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 5,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15745/15745797.jpg",
+        "title": "Amazon Kindle Paperwhite 8GB 6.8'' Digital eReader with Touchscreen (B08N36XNTT) - Black",
+        "rate": "⭐⭐⭐⭐⭐(3 Reviews)",
+        "top": "Top Deal",
+        "price": "124.99",
+        "save": "save 25",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 6,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/156/15665/15665552.jpg",
+        "title": "Amazon Fire TV Stick 4K (2021) Media Streamer with Alexa Voice Remote",
+        "rate": "⭐⭐⭐⭐(36 Reviews)",
+        "top": "Top Deal",
+        "price": "54.99",
+        "save": "save 15",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 7,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15725/15725755.jpg",
+        "title": "Amazon Fire TV 4-Series 43'' 4K UHD HDR LED Smart TV (B08T6FMSY8) - 2021",
+        "rate": "⭐⭐⭐⭐(15 Reviews)",
+        "top": "",
+        "price": "359.99",
+        "save": "",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 8,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/130/13023/13023977.jpg",
+        "title": "Amazon Echo Dot (3rd Gen) Smart Speaker with Alexa - Charcoal",
+        "rate": "⭐⭐⭐⭐⭐(27528 Reviews)",
+        "top": "Top Deal",
+        "price": "29.99",
+        "save": "save 5",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 9,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15725/15725757.jpg",
+        "title": "Amazon Fire TV Omni 75'' 4K UHD HDR LED Smart TV (B08T6DX84M) - 2021",
+        "rate": "",
+        "top": "",
+        "price": "959.99",
+        "save": "save 315",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 10,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/146/14640/14640234.jpg",
+        "title": "Amazon Fire HD 8 Kids Edition 8'' 32GB FireOS Tablet with MTK/MT8168 4-Core Processor - Blue",
+        "rate": "⭐⭐⭐⭐(29 Reviews)",
+        "top": "",
+        "price": "179",
+        "save": "",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 11,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/149/14966/14966503.jpg",
+        "title": "Amazon Echo Dot (4th Gen) Smart Speaker with Alexa - Charcoal",
+        "rate": "⭐⭐⭐⭐⭐(2052 Reviews)",
+        "top": "Top Deal",
+        "price": "39.99",
+        "save": "save 5",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 12,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/139/13985/13985316.jpg",
+        "title": "Amazon Echo Show 8 Smart Display with Alexa - Charcoal",
+        "rate": "⭐⭐⭐⭐(76 Reviews)",
+        "top": "Top Deal",
+        "price": "69.99",
+        "save": "save 15",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 13,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/144/14479/14479197.jpg",
+        "title": "Amazon Kindle 6'' Digital eReader with Touchscreen & Front Light (B07FQ4XCR1) - Black",
+        "rate": "⭐⭐⭐⭐⭐(388 Reviews)",
+        "top": "",
+        "price": "94.99",
+        "save": "save 25",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 14,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15725/15725751.jpg",
+        "title": "Amazon Fire TV 4-Series 50'' 4K UHD HDR LED Smart TV (B08T6G1DCB) - 2021",
+        "rate": "⭐⭐⭐⭐(8 Reviews)",
+        "top": "",
+        "price": "429.99",
+        "save": "",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 15,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/149/14966/14966502.jpg",
+        "title": "Amazon Echo Dot (4th Gen) Smart Speaker with Alexa - Glacier White",
+        "rate": "⭐⭐⭐⭐⭐(652 Reviews)",
+        "top": "Top Deal",
+        "price": "39.99",
+        "save": "save 5",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 16,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/146/14640/14640230.jpg",
+        "title": "Amazon Fire HD 8 8'' 32GB FireOS Tablet with MTK/MT8168 4-Core Processor - Black",
+        "rate": "⭐⭐⭐⭐(46 Reviews)",
+        "top": "",
+        "price": "109.99",
+        "save": "",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 17,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/157/15745/15745792.jpg",
+        "title": "Amazon Kindle Paperwhite 32GB Signature Edition 6.8'' Digital eReader (B08N2QK2TG) - Black",
+        "rate": "⭐⭐⭐⭐(3 Reviews)",
+        "top": "",
+        "price": "174.99",
+        "save": "save 35",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 18,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/154/15457/15457893.jpg",
+        "title": "Amazon Fire HD 10 (2021) 10.1'' 32GB FireOS Tablet with MTK/MT8183 Processor - Black",
+        "rate": "⭐⭐⭐⭐⭐(18 Reviews)",
+        "top": "",
+        "price": "199.99",
+        "save": "",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 19,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/139/13985/13985310.jpg",
+        "title": "Amazon Echo Studio with Alexa - Black",
+        "rate": "⭐⭐⭐⭐⭐(1386 Reviews)",
+        "top": "",
+        "price": "189.99",
+        "save": "70",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      },
+      {
+        "id": 20,
+        "imgUrl": "https://multimedia.bbycastatic.ca/multimedia/products/250x250/149/14966/14966508.jpg",
+        "title": "Amazon Echo Dot (4th Gen) Smart Speaker with Alexa & Clock - Twilight Blue",
+        "rate": "⭐⭐⭐⭐⭐(1570 Reviews)",
+        "top": "Top Deal",
+        "price": "54.99",
+        "save": "",
+        "end": "Available to ship",
+        "brand": "Amazon"
+      }
+
+  ]
+

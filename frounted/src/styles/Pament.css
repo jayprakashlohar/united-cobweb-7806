@@ -1,0 +1,34 @@
+
+.hrr {
+  width: 95%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.hrr1 {
+  width: 95%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.pp {
+  margin: 10px 0px 0px 20px;
+  font-weight: bold;
+}
+.input {
+  margin-left: 20px;
+}
+.pick {
+  margin-left: 10px;
+  font-weight: 500;
+  color: blue;
+}
+
+.store {
+  margin: 10px 0px 0px 20px;
+  font-weight: 500;
+}
+
+.btn {
+  background-color: #ffe000;
+}

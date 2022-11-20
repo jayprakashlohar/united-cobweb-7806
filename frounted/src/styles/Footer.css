@@ -1,0 +1,151 @@
+Footer {
+  padding: 0;
+  margin: 0;
+}
+.mainContainer {
+  width: 99%;
+  margin: auto;
+  margin-top: 40px;
+}
+.grid_container_footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.div_box {
+  width: 20%;
+}
+.div_signup {
+  width: 30%;
+}
+.a {
+  color: #0046be;
+  font-size: 13px;
+  line-height: 30px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.a:hover {
+  text-decoration: underline;
+}
+
+.a1 {
+  color: #0046be;
+  padding: 40px 0px 0px 20px;
+  font-size: 14px;
+  line-height: 30px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.a1:hover {
+  text-decoration: underline;
+}
+
+.hr {
+  width: 90%;
+  margin: auto;
+  color: #c5cbd5;
+  margin-top: 10px;
+}
+
+.hr1 {
+  width: 90%;
+  margin: auto;
+  color: #c5cbd5;
+  margin-top: 40px;
+}
+
+.p1 {
+  color: #0046be;
+  cursor: pointer;
+  margin-top: 0px;
+  margin-left: 20px;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.hr2 {
+  width: 90%;
+  margin: auto;
+  color: #c5cbd5;
+  margin-top: 20px;
+}
+
+.logo {
+  cursor: pointer;
+  margin: 20px 0px 0px 20px;
+  width: 30px;
+  height: 40px;
+  color: #0046be;
+}
+
+.span {
+  cursor: pointer;
+  color: #0046be;
+  text-decoration: underline;
+  font-size: 14px;
+}
+p {
+  font-size: 14px;
+}
+.hr3 {
+  border: 1px solid #c5cbd5;
+  width: 96%;
+  margin: auto;
+}
+
+.a2 {
+  color: #0046be;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.a2:hover {
+  text-decoration: underline;
+}
+.down_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media all and (min-width: 450px) and (max-width: 800px) {
+  .mainContainer {
+    width: 90%;
+    margin: auto;
+  }
+  .grid_container_footer {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .div_box {
+    width: 90%;
+  }
+  .div_signup {
+    width: 100%;
+  }
+}
+
+@media all and (min-width: 200px) and (max-width: 450px) {
+  .mainContainer {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+  }
+  .grid_container_footer {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .div_box {
+    width: 80%;
+  }
+  .div_signup {
+    width: 90%;
+    margin-left: -15px;
+  }
+  .down_container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

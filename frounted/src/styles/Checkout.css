@@ -1,0 +1,51 @@
+.top-p {
+  margin-left: 5%;
+  font-size: 18px;
+  padding-top: 15px;
+  font-weight: bold;
+}
+
+.Image {
+  height: 60%;
+  padding: 20px 40px 0px 20px;
+}
+
+.descri {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.hrr {
+  width: 95%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.hrr1 {
+  width: 95%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.pp {
+  margin: 10px 0px 0px 20px;
+  font-weight: bold;
+}
+.input {
+  margin-left: 20px;
+}
+.pick {
+  margin-left: 10px;
+  font-weight: 500;
+  color: blue;
+}
+
+.store {
+  margin: 10px 0px 0px 20px;
+  font-weight: 500;
+}
+
+.btn {
+  background-color: #ffe000;
+}

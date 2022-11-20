@@ -1,0 +1,108 @@
+.Middle_container{
+    margin-top: 50px;
+}
+.middle_parent_container{
+    width: 96%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+}
+.middle_parent_container>div{
+    border: 1px solid rgba(66, 66, 66, 0.5);
+    height: 220px;
+    border-radius: 5px;
+}
+.name_box{
+    width: 90%;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 25px;
+}
+.name_box>p{
+    /* border: 1px solid red; */
+    width: auto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.5px;
+    padding: 4px 10px;
+    color: #FFF200;
+    background-color: rgb(0, 30, 255) ;
+}
+.noncolor_p{
+    color: white;
+}
+.clearance_box, .iphone_box{
+    display: flex;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.iphone_box{
+    display: flex;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .clearance_box>div>img{
+    width: 100%;
+} */
+.clearance_box>div>p, .iphone_box>div>p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.9px;
+}
+.iphone_box>div>p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.9px;
+    color:rgb(0, 30, 255) ;
+}
+.iphone_box>div>p:hover{
+    text-decoration: underline black;
+}
+.clearance_box>div>button, .iphone_box>div>button{
+    border: 1px solid rgb(0, 30, 255);
+    border-radius: 5px;
+    padding: 2px 5px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 20px;
+    color: rgb(0, 30, 255);
+}
+
+.clearance_box>div>button:hover, .iphone_box>div>button:hover{
+    color: white;
+    background-color: rgb(0, 30, 255);
+}
+.apple_img{
+    width: 55%;
+}
+.offer_container{
+    width: 96%;
+    margin: auto;
+    margin-top: 50px;
+}
+.offer_container>img{
+    width: 100%;
+}
+
+
+/* Media Querry  */
+
+@media screen and (min-width: 200px) and (max-width: 650px){
+    .middle_parent_container{
+        width: 96%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+    }
+}
