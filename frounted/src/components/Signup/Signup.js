@@ -71,7 +71,7 @@ function Signup() {
           duration: 3000,
           isClosable: true,
         });
-        navigate("/");
+        navigate("/login");
       })
       .catch((err) => {
         setSubmitButtonDisabled(false);
@@ -116,9 +116,11 @@ function Signup() {
 
         <div className={styles.footer}>
           <b className={styles.error}>{errorMsg}</b>
+          {/* <Link to="/login"> */}
           <button onClick={handleSubmission} disabled={submitButtonDisabled}>
             Signup
           </button>
+          {/* </Link> */}
           <h1 style={{ display: "flex", justifyContent: "center" }}>
             -------Or-------
           </h1>

@@ -29,13 +29,14 @@ function Login() {
     signInWithEmailAndPassword(auth, values.email, values.pass)
       .then(async (res) => {
         setSubmitButtonDisabled(false);
-        toast({
-          title: "Login Successfully !",
-          status: "success",
-          position: "top",
-          duration: 3000,
-          isClosable: true,
-        });
+        // toast({
+        //   title: "Login Successfully !",
+        //   status: "success",
+        //   position: "top",
+        //   duration: 3000,
+        //   isClosable: true,
+        // });
+        alert("Login Successfully !");
         navigate("/");
       })
       .catch((err) => {
