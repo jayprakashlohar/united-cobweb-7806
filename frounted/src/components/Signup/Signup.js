@@ -78,6 +78,7 @@ function Signup() {
         setErrorMsg(err.message);
         toast({
           title: err.message,
+          
           status: "error",
           position: "top",
           duration: 3000,

@@ -22,12 +22,21 @@ import TopdealsProductPage from "../pages/ProductPages/TopdealsProductPage";
 import Homepage from "../components/homePage/Homepage";
 import Login from "../components/Login/Login";
 import Signup from "../components/Signup/Signup";
+import { ChakraProvider } from "@chakra-ui/react";
+
 const AllRoutes = () => {
   return (
     <div>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Homepage />} />
+        <Route
+          path="/"
+          element={
+            <ChakraProvider>
+              <Homepage />
+            </ChakraProvider>
+          }
+        />
         <Route path="/login" element={<Login />}></Route>
         <Route path="/signup" element={<Signup />}></Route>
         <Route path="/topDeal" element={<Products />} />
@@ -64,7 +73,14 @@ const AllRoutes = () => {
           path="/topdealsproductpage"
           element={<TopdealsProductPage />}
         ></Route>
-        <Route path="/giftCards" element={<GiftCards />} />
+        <Route
+          path="/giftCards"
+          element={
+            <ChakraProvider>
+              <GiftCards />
+            </ChakraProvider>
+          }
+        />
         <Route path="/dealOfTheDay" element={<DealOfTheDay />} />
         <Route path="/products/:id" element={<ProductContainer />} />
         <Route path="/products/single/:id" element={<Detailsitem />} />

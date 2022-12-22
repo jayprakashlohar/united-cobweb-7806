@@ -226,16 +226,7 @@ const ProductContainer = () => {
               </AccordionSummary>
 
               <AccordionDetails className="checkBoxesCon">
-                {/* <Typography>
-                  <Checkbox />
-                  <span>Get it Shipped</span>
-                </Typography>
-                <Typography>
-                  <Checkbox />
-                  <span>Pick Up at Nearby Store</span>
-                </Typography> */}
                 <FormControl>
-                  {/* <FormLabel>Availibility</FormLabel> */}
                   <FormControlLabel
                     label="Get it Shipped"
                     control={
@@ -285,34 +276,6 @@ const ProductContainer = () => {
                     />
                   );
                 })}
-                {/* <Typography>
-                  <Checkbox />
-                  <span>On Sale</span>
-                </Typography>
-                <Typography>
-                  <Checkbox />
-                  <span>Top Deals</span>
-                </Typography>
-                <Typography>
-                  <Checkbox />
-                  <span>On Clearence</span>
-                </Typography>
-                <Typography>
-                  <Checkbox />
-                  <span>Best Buy Exclusive</span>
-                </Typography>
-                <Typography>
-                  <Checkbox />
-                  <span>Refurbished</span>
-                </Typography>
-                <Typography>
-                  <Checkbox />
-                  <span>Open Box</span>
-                </Typography>
-                <Typography>
-                  <Checkbox />
-                  <span>Online Only</span>
-                </Typography> */}
               </AccordionDetails>
             </Accordion>
             {/* Price */}
@@ -406,14 +369,6 @@ const ProductContainer = () => {
                     />
                   );
                 })}
-                {/* {brands.map((el, i) => {
-                  return (
-                    <Typography key={i}>
-                      <Checkbox />
-                      <span>{el}</span>
-                    </Typography>
-                  );
-                })} */}
               </AccordionDetails>
             </Accordion>
             {/* Ratings */}

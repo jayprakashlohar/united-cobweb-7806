@@ -63,10 +63,6 @@ let data = [
   },
 ];
 
-// const Wrapper = styled.div`
-//   & > div {
-//   }
-// `;
 
 const ShopDealsByCategory = ({ className }) => {
   return (

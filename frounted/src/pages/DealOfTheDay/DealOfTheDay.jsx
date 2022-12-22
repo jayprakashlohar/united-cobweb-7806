@@ -7,6 +7,8 @@ import ShopDealsByCategory from "../../components/topDeals/ShopDealsByCategory";
 import CourosalContainer from "../../components/topDeals/CourosalContainer";
 import { useState } from "react";
 import ProductContainer from "../ProductPage/ProductContainer";
+
+
 let futureDeals = [
   {
     imgUrl:
@@ -290,14 +292,6 @@ const DealOfTheDay = () => {
     logoSize: "200px",
   };
 
-  // useEffect(() => {
-  //   async function data() {
-  //     let { data } = await axios.get("http://localhost:8080/deal");
-  //     console.log(data);
-  //     setData([...data]);
-  //   }
-  //   data();
-  // }, []);
   return (
     <TopDealsDiv>
       <p className="title-heading">Deal of the Day</p>
@@ -327,7 +321,7 @@ const DealOfTheDay = () => {
         </div>
       </div>
 
-      <ProductContainer />
+     <ProductContainer />
     </TopDealsDiv>
   );
 };

@@ -88,7 +88,7 @@ function Products() {
   ];
 
   return (
-    <div >
+    <div>
       <AllProductPageRoute />
       <ProductBanner />
       <ProductTopCrousal />
@@ -158,15 +158,6 @@ function Products() {
           </div>
         ))}
       </div>
-
-      {/* <div style={{ 
-      backgroundImage: `url("https://pisces.bbystatic.com/image2/BestBuy_US/dam/gl-77114-giftideas-ep-td-half_der-e5653191-ad0b-42de-a484-6759bfdd6ad5.jpg")` ,
-      backgroundRepeat: 'no-repeat',
-    
-    }}
-    className="h-">
-   
-   </div> */}
     </div>
   );
 }
